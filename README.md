@@ -1,68 +1,98 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="">
+    <img src="public/page-icon.png" alt="Logo" width="80" height="80">
+  </a>
 
-### `npm start`
+  <h3 align="center">Real-time Chat App</h3>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <p align="center">
+    A full stack MERN web app with real time chat feature and google authorization to log in!
+   
+   <br />
+   <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+  </p>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-### `npm run build`
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Contact](#contact)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<p align="center">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  <a href="https://ibb.co/K528zpy"><img src="https://i.ibb.co/Fh5dqL7/Screen-Shot-2020-09-08-at-10-47-49-AM.png" alt="Screen-Shot-2020-09-08-at-10-47-49-AM"      border="0" /></a>
 
-### `npm run eject`
+  <a href="https://ibb.co/Nytp2vG"><img src="https://i.ibb.co/DRzkfJj/Screen-Shot-2020-09-08-at-10-41-38-AM.png" alt="Screen-Shot-2020-09-08-at-10-41-38-AM"    border="0" /></a>
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The previous real-time chat is not a full-stack-app. So I decided to improve on that with a database and backend server.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Here's why I build this app:
+* Socket.io doesn't save all messages, so every time the app restarts, all messages are gone.
+* There's a cool library called Pusher that enables real-time stream exchange between front-end and back-end.
+* The previous version doesn't have a sign up function, so every time user joins the chat, he or she has to retype the username
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Now, this cool app allows a real-time fetching of messages from MongoDB to React without any speed concern! It also allows a google login feature and the user can have their google username and avatar in the chat room.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Built With
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [React](https://reactjs.org/)
+* [Express](https://expressjs.com/)
+* [Pusher](https://pusher.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [NodeJS](https://nodejs.org/en/)
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+<!-- GETTING STARTED -->
+## Getting Started
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+All you need is get npm installed
 
-### Making a Progressive Web App
+### Prerequisites
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+```sh
+npm install npm@latest -g
+```
 
-### Advanced Configuration
+### Installation
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+1. Clone the repo
+```sh
+git clone https://github.com/Cindy1229/my-whatsapp.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
+3. Start the app
+```sh
+npm start
+```
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [Email](shi426@purdue.edu) - shi426@purdue.edu
+
+Live Demo: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
