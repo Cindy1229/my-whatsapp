@@ -13,7 +13,7 @@
     A full stack MERN web app with real time chat feature and google authorization to log in!
    
    <br />
-   <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+   <a href="https://trusting-lamport-d1ba40.netlify.app/">View Demo</a>
   </p>
 </p>
 
@@ -93,6 +93,6 @@ npm start
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Email](shi426@purdue.edu) - shi426@purdue.edu
+Cindy Shi - [shi426@purdue.edu](shi426@purdue.edu) 
 
-Live Demo: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Live Demo: [https://trusting-lamport-d1ba40.netlify.app/](https://trusting-lamport-d1ba40.netlify.app/)
