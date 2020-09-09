@@ -34,7 +34,7 @@
 ## About The Project
 <p align="center">
 
-  <a href="https://ibb.co/K528zpy"><img src="https://i.ibb.co/Fh5dqL7/Screen-Shot-2020-09-08-at-10-47-49-AM.png" alt="Screen-Shot-2020-09-08-at-10-47-49-AM"      border="0" /></a>
+<a href="https://ibb.co/5Ws3sj4"><img src="https://i.ibb.co/Z6crcgX/Screen-Shot-2020-09-08-at-9-41-34-PM.png" alt="Screen-Shot-2020-09-08-at-9-41-34-PM" border="0" /></a>
 
   <a href="https://ibb.co/Nytp2vG"><img src="https://i.ibb.co/DRzkfJj/Screen-Shot-2020-09-08-at-10-41-38-AM.png" alt="Screen-Shot-2020-09-08-at-10-41-38-AM"    border="0" /></a>
 </p>
